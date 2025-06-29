@@ -1,5 +1,11 @@
 # 📚 Book-Store
 
+## 🌐 Live Demo  
+👉 [View Deployed Website](https://booksstoreshubharora.netlify.app/)
+
+The **Bookstore** is a full-stack web application...
+
+
 The **Bookstore** is a full-stack web application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It provides users with a smooth and interactive experience to manage a collection of books efficiently.
 
 ## 🔍 Features
